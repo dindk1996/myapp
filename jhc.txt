@@ -1,0 +1,3 @@
+git is very fast
+git is easy to work
+git is widely used
