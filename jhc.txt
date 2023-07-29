@@ -2,3 +2,4 @@ git is very fast
 git is easy to work
 git is widely used
 this is added in task1
+this is adeed in task2
